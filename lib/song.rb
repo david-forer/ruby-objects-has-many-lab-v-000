@@ -5,7 +5,7 @@ class Song
   
   def initalize(name)
     @name = name 
-    @@all = self
+    @@all << self
     
   end
   
