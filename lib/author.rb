@@ -11,3 +11,4 @@ class Author
     @posts << post
     @@posts << post
   end
+end
